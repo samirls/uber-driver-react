@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/uber-driver-react/static/css/main.797551a1.css",
+    "main.js": "/uber-driver-react/static/js/main.7c328e11.js",
+    "static/js/787.58af0232.chunk.js": "/uber-driver-react/static/js/787.58af0232.chunk.js",
+    "static/media/passenger2.jpg": "/uber-driver-react/static/media/passenger2.e1a8bcac1265ab530808.jpg",
+    "static/media/italo-transparente.png": "/uber-driver-react/static/media/italo-transparente.2ee17a4ddf138af5a30d.png",
+    "static/media/corolla-frente-transparente.png": "/uber-driver-react/static/media/corolla-frente-transparente.31bdfa948a09491ce2a2.png",
+    "static/media/corolla-interior-frente.jpg": "/uber-driver-react/static/media/corolla-interior-frente.7ec7f4b62394b7174b23.jpg",
+    "static/media/corolla-tras.jpg": "/uber-driver-react/static/media/corolla-tras.df6fca06c55b59c86433.jpg",
+    "static/media/corolla-frente.jpg": "/uber-driver-react/static/media/corolla-frente.d30c73a221be008aebc2.jpg",
+    "static/media/corolla-interior-tras.jpg": "/uber-driver-react/static/media/corolla-interior-tras.f8618e019c889de5a510.jpg",
+    "static/media/italo.jpg": "/uber-driver-react/static/media/italo.7020f1325bbc5a32c526.jpg",
+    "static/media/star_2b50.png": "/uber-driver-react/static/media/star_2b50.35be1641901e29a0f36c.png",
+    "static/media/corolla-frente2.jpg": "/uber-driver-react/static/media/corolla-frente2.402676fe3f8a3bbf5b95.jpg",
+    "static/media/passenger.jpg": "/uber-driver-react/static/media/passenger.ed579547842ad4019354.jpg",
+    "static/media/passenger3.jpg": "/uber-driver-react/static/media/passenger3.e8ee7d4ad7e7f4a4842a.jpg",
+    "static/media/sorriso-editado.png": "/uber-driver-react/static/media/sorriso-editado.7a2685060666207690bb.png",
+    "static/media/limpo-editado.png": "/uber-driver-react/static/media/limpo-editado.2a019557ecc24ef1511e.png",
+    "static/media/msg5.jpg": "/uber-driver-react/static/media/msg5.4ecdb5ff15efb6e4ad65.jpg",
+    "static/media/msg10.jpg": "/uber-driver-react/static/media/msg10.a45094884e63b5882d1a.jpg",
+    "static/media/msg9.jpg": "/uber-driver-react/static/media/msg9.50334d8767b46df847f3.jpg",
+    "static/media/msg1.jpg": "/uber-driver-react/static/media/msg1.4f9a22a489b2bdc807a9.jpg",
+    "static/media/msg8.jpg": "/uber-driver-react/static/media/msg8.69b608571ecfa270db1b.jpg",
+    "static/media/joia-editado.png": "/uber-driver-react/static/media/joia-editado.9f27ff045ee51c22515b.png",
+    "static/media/msg2.jpg": "/uber-driver-react/static/media/msg2.abb1bb2b26388ca65db9.jpg",
+    "static/media/msg3.jpg": "/uber-driver-react/static/media/msg3.7c9e0e93a8ca7208dc85.jpg",
+    "static/media/msg6.jpg": "/uber-driver-react/static/media/msg6.51d3d57b3161a7031fb1.jpg",
+    "static/media/msg7.jpg": "/uber-driver-react/static/media/msg7.833f2a62ee4d461e5c5b.jpg",
+    "static/media/whatsapp.png": "/uber-driver-react/static/media/whatsapp.d026940870fb334920b7.png",
+    "static/media/msg4.jpg": "/uber-driver-react/static/media/msg4.618fe4ca687a52b5523e.jpg",
+    "static/media/gmail.png": "/uber-driver-react/static/media/gmail.a2f2146f929409405da0.png",
+    "index.html": "/uber-driver-react/index.html",
+    "main.797551a1.css.map": "/uber-driver-react/static/css/main.797551a1.css.map",
+    "main.7c328e11.js.map": "/uber-driver-react/static/js/main.7c328e11.js.map",
+    "787.58af0232.chunk.js.map": "/uber-driver-react/static/js/787.58af0232.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.797551a1.css",
+    "static/js/main.7c328e11.js"
+  ]
+}
